@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JESHURUN CHARITABLE TRUST</title>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6104630894716214"
+     crossorigin="anonymous"></script>
+</head>
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgran88nf6bBBxu8SdTVu96BQbjmSOyG8l78GAwcRwOnCo3Lr27s6zHyAt5ocXvxZ0tU7Fbo6rlS693cH150S3aXw4f6C3i3We98MSKatz5w_ebwR_AUnQQFmDZRfHa4zriR8FNxZqhvjHsy1i5XOE7JX4_QnUbrht78GrzTWr4tq_oDXGbzA2GogEk/s1748/1671886660604.jpg" style="clear: right; display: block; float: right; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="1748" data-original-width="1240" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgran88nf6bBBxu8SdTVu96BQbjmSOyG8l78GAwcRwOnCo3Lr27s6zHyAt5ocXvxZ0tU7Fbo6rlS693cH150S3aXw4f6C3i3We98MSKatz5w_ebwR_AUnQQFmDZRfHa4zriR8FNxZqhvjHsy1i5XOE7JX4_QnUbrht78GrzTWr4tq_oDXGbzA2GogEk/s200/1671886660604.jpg" /></a></div>
+
+
+<div class="col-75">
+    <div class="container">
+      <form action="/action
+
+        &lt;div class=" row="">
+          <div class="col-50">
+            <h3>Billing Address</h3>
+            <label><i class="fa fa-user"></i> Full Name</label>
+            <input id="fname" name="firstname" type="text" />
+            <label><i class="fa fa-envelope"></i> Email</label>
+            <input id="email" name="email" placeholder="germiah@gmail.com" type="text" />
+            <label><i class="fa fa-address-card-o"></i> Address</label>
+            <input id="adr" name="address" type="text" />
+            <label><i class="fa fa-institution"></i> City</label>
+            <input id="city" name="city" type="text" />
+
+            <div class="row">
+              <div class="col-50">
+                <label>State</label>
+                <input id="state" name="state" type="text" />
+              </div>
+              <div class="col-50">
+                <label>Zip</label>
+                <input id="zip" name="zip" type="text" />
+              </div>
+            </div>
+          </div>
+
+          <div class="col-50">
+            <h3>Payment</h3>
+            <label>Accepted Cards</label>
+            <div class="icon-container">
+              <i class="fa fa-cc-visa" style="color: navy;"></i>
+              <i class="fa fa-cc-amex" style="color: blue;"></i>
+              <i class="fa fa-cc-mastercard" style="color: red;"></i>
+              <i class="fa fa-cc-discover" style="color: orange;"></i>
+            </div>
+            <label>Name on Card</label>
+            <input id="cname" name="cardname" type="text" />
+            <label>Credit card number</label>
+            <input id="ccnum" name="cardnumber" placeholder="1111-2222-3333-4444" type="text" />
+            <label>Exp Month</label>
+            <input id="expmonth" name="expmonth" type="text" />
+
+            <div class="row">
+              <div class="col-50">
+                <label>Exp Year</label>
+                <input id="expyear" name="expyear" type="text" />
+              </div>
+              <div class="col-50">
+                <label>CVV</label>
+                <input id="cvv" name="cvv" type="text" />
+              </div>
+            </div>
+          </div>
+
+        </form></div>
+        <label>
+          <input checked="checked" name="sameadr" type="checkbox" />  address ,STREET,CITY, ZIP
+        </label>
+        <input class="btn" type="submit" value="scan the QR cide to pay" />
+      </div>
+    
